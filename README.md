@@ -2,4 +2,5 @@
 
 Ebben a kisérletben,létrehoztunk az első GitHub reponkat
 
-Ne feledd az account.js-ben az API kulcsot!
+Ne feledd az account.js-ben az API kulcsot
+Nagyon fontos üzenet.
